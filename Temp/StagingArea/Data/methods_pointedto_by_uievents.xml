@@ -1,0 +1,15 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="ChatManager">
+			<method name="OnAnswer2Click"/>
+			<method name="OnAnswer1Click"/>
+		</type>
+		<type fullname="MatchPanel">
+			<method name="OnSendMessageClick"/>
+		</type>
+		<type fullname="SwipeManager">
+			<method name="OnFightClick"/>
+			<method name="OnSkipClick"/>
+		</type>
+	</assembly>
+</linker>

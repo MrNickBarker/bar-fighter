@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3923AAFA-C8EF-59E6-0B4E-38FBFC6CBE14}|">
+  <MonoDevelop.Ide.ItemProperties.Bar_220Fighter PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Fighting/FightController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ChatMessages.cs" Line="43" Column="5" />
+      <File FileName="Assets/Scripts/ChatManager.cs" Line="56" Column="42" />
+      <File FileName="Assets/Scripts/Fighting/FightController.cs" Line="8" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

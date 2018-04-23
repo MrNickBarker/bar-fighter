@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Bar Fighter",
+"dataUrl": "BarFighter.data.unityweb",
+"asmCodeUrl": "BarFighter.asm.code.unityweb",
+"asmMemoryUrl": "BarFighter.asm.memory.unityweb",
+"asmFrameworkUrl": "BarFighter.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
